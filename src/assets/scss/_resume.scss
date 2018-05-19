@@ -1,0 +1,31 @@
+.employment-history {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+
+	li {
+		margin: 0 0 1.5em;
+		padding: 0 0 0 5px;
+		border-left: 3px #ccc solid;
+	}
+
+	.title {
+		font-size: 1.1em;
+	}
+
+	.company {
+		font-size: 1.0em;
+	}
+
+	.dates {
+		font-size: 0.9em;
+	}
+
+	.location {
+		font-size: 0.8em;
+	}
+
+	.various {
+		padding-left: 20px;
+	}
+}
